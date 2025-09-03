@@ -47,6 +47,7 @@ fun GreetingText(message:String,from:String, modifier: Modifier = Modifier) {
             fontSize = 110.sp,
             lineHeight = 116.sp,
             color = Color.Red
+
         )
         Text(
             text = from,
